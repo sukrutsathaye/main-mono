@@ -1,0 +1,10 @@
+{
+  "name": "rn-mono-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/rn-mono-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["rn-mono"],
+  "// targets": "to see all targets run: nx show project rn-mono-e2e --web",
+  "targets": {}
+}
